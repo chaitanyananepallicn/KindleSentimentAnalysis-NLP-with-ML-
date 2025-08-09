@@ -1,0 +1,12 @@
+tensorflow
+numpy
+pandas
+scikit-learn
+keras
+tensorboard
+matplotlib
+streamlit
+ipykernel
+nltk
+bs4
+gensim
